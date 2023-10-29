@@ -98,6 +98,6 @@ Thanks to <a href="https://github.com/noob-hackers/grabcam">Noob-Hackers</a>, <a
 
 - [![Facebook](https://img.shields.io/badge/Facebook-Hacktrining-green?style=for-the-badge&logo=facebook)](https://www.facebook.com/saddam.syed.9041/)
 
-- [![Instagram](https://img.shields.io/badge/Messenger-Hacktrining-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/alone__rider__rc_390/)
+- [![Instagram](https://img.shields.io/badge/Instagram-Hacktrining-green?style=for-the-badge&logo=Instagram)](https://www.instagram.com/alone__rider__rc_390/)
 
 
