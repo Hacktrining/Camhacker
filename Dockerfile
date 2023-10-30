@@ -1,10 +1,10 @@
 # Dockerfile
 
 # Script       : CamHacker
-# Author       : KasRoudra
-# Github       : https://github.com/KasRoudra
-# Messenger    : https://m.me/KasRoudra
-# Email        : kasroudrakrd@gmail.com
+# Author       : A Mohan
+# Github       : https://github.com/hacktrining
+# Instagram   : https://www.instagram.com/alone__rider__rc_390/
+# Email        : mohan63025@gmail.com
 # Date         : 05-09-2021
 # Main Language: Shell
 
@@ -14,7 +14,7 @@
 FROM debian:latest
 
 # Author info
-LABEL MAINTAINER="https://github.com/KasRoudra/CamHacker"
+LABEL MAINTAINER="https://github.com/Hacktrining/CamHacker"
 
 # Working directory
 WORKDIR /CamHacker/
@@ -33,6 +33,6 @@ CMD ["./ch.sh", "--no-update"]
 
 ## Wanna run it own? Try following commnads:
 
-## "sudo docker build . -t kasroudra/camhacker:latest", "sudo docker run --rm -it kasroudra/pyphisher:latest"
+## "sudo docker build . -t hacktrining/camhacker:latest", "sudo docker run --rm -it hacktrining/pyphisher:latest"
 
-## "sudo docker pull kasroudra/camhacker", "sudo docker run --rm -it kasroudra/camhacker"
+## "sudo docker pull hacktrining/camhacker", "sudo docker run --rm -it hacktrining/camhacker"
